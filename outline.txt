@@ -3,3 +3,4 @@
 1. They get used! We can't prove it for various reasons:
 	* mainly publisher OA policies
 	* caveat: research use is only one use of IR content
+	* also repository metrics are inconsistent
