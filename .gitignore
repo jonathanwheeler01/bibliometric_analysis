@@ -1,0 +1,5 @@
+# Ignore sensitive credentials
+config/credentials.txt
+
+# also (or alternatively) ignore the whole directory
+config/*
